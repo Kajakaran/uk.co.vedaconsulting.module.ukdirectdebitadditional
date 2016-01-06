@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="uk.co.vedaconsulting.module.ukdirectdebitadditional" type="module">
+  <file>ukdirectdebitadditional</file>
+  <name>UK Direct Debit Additional</name>
+  <description>Extension to implement additional DD requirements.</description>
+  <license>AGPL</license>
+  <maintainer>
+    <author>Parvez</author>
+    <email>parvez@vedaconsulting.co.uk</email>
+  </maintainer>
+  <releaseDate>2016-01-06</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.6</ver>
+  </compatibility>
+  <comments>This module is under active development.</comments>
+  <civix>
+    <namespace>CRM/ukdirectdebitadditional</namespace>
+  </civix>
+</extension>
